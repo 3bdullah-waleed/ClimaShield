@@ -2,7 +2,7 @@
 > **Smart Rooftop Garden Guardian** 
 > Developed by Team Taylor | Asian Hackathon for Green Future 2026
 
-ClimaShield is an affordable, solar-powered IoT ecosystem designed to protect rooftop and home-garden crops—specifically optimized for **Mint**—from extreme ambient heat waves and drought stress.
+ClimaShield is an affordable, solar-powered IoT ecosystem designed to protect rooftop and home-garden crops, specifically optimized for **Mint**, from extreme ambient heat waves and drought stress.
 
 ---
 
